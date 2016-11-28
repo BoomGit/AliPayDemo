@@ -1,0 +1,2 @@
+# AliPayDemo
+这是一个借鉴建造者模式Builder集成阿里支付的练习例子
